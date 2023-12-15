@@ -15,4 +15,3 @@ Copyright (C) 2015 M. Isuru Tharanga Chrishantha Perera
 
 Licensed under the Apache License, Version 2.0 
  
-Hi Good Morning
